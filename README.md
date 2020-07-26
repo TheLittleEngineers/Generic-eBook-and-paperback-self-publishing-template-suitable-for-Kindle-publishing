@@ -1,0 +1,2 @@
+# Generic-eBook-and-paperback-self-publishing-template-suitable-for-Kindle-publishing
+ This repository will contain a universal eBook template that is suitable for use in creating book(s) to be published via Amazon Kindle Direct Publishing. This "generic" template is also quite useful in creating books intended for actual physical publishing/printing. The template is also quite useful in creating "*.pdf" eBooks and documents. This project is intended to be "the only thing you need to get your book formatted for publishin".
