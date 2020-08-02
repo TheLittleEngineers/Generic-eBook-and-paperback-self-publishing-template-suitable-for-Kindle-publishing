@@ -1,0 +1,1332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="en-US">
+  <sect1>
+    <title><anchor id="_toc24"/>Inside Front Cover</title>
+    <para/>
+    <para>This page is usually completely blank and is the verso of the <link linkend="">Half Title</link> recto. This might be considered a good place to “credit” the cover photo, if necessary. Such credits, however, are generally found in the <link linkend="">Acknowledgments</link>, <link linkend="">Credits</link>, or <link linkend="">Copyright</link><link linkend=""> pages</link>. Pages that are left blank are usually either completely blank, or consist of a sentence similar to:</para>
+    <para/>
+    <para>“This page intentionally left blank.”</para>
+    <para/>
+    <para>We at <ulink url="http://www.TheLittleEngineers.org/">The Little Engineers</ulink>, <ulink url="http://www.CannedLogic.com/">Canned Logic</ulink>, <ulink url="http://www.TinCansAndDuctTape.com/">Tin </ulink><ulink url="https://www.facebook.com/groups/1654785514796788/">Cans </ulink><ulink url="https://www.facebook.com/Tin-Cans-Duct-Tape-728969003939754">And </ulink><ulink url="https://www.facebook.com/tincansandducttape/">Duct Tape</ulink>, <ulink url="http://www.RoboCircuits.org/">RoboCircuits.org</ulink>, <ulink url="http://www.TCADT.com/">TCADT.com</ulink>, <ulink url="http://www.GIMEChip.com/">GIMEChip.com</ulink>, <ulink url="https://www.facebook.com/TinCansDuctTape">et </ulink><ulink url="https://www.facebook.com/TheLittleEngineers.org">alia</ulink> prefer to use a sentence similar to:</para>
+    <para/>
+    <para>“This page intentionally left blank, although the presence of this text means that it isn’t actually blank.”</para>
+    <para/>
+    <para>
+      <link linkend="">Table of Contents (Front-matter)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Chapters)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Back-matter)</link>
+    </para>
+  </sect1>
+  <sect1><title><anchor id="_toc37"/>HALF TITLE</title>ALF TITLE<para>Also called the Bastard title. This page usually consists of a single line of text, in capital letters, containing only the title of the book. It is typically the first page that you see when opening the cover. This page and its verso (the back, or left-hand reverse of the page) are often eliminated in an attempt to control the length of the finished book. This page is usually in the “voice” of the <link linkend="">Publisher</link>, and always precedes the actual <link linkend="">Title Page</link>.</para><para/><para><link linkend="">Table of Contents (Front-matter)</link></para><para><link linkend="">Table of Contents (Chapters)</link></para><para><link linkend="">Table of Contents (Back-matter)</link></para></sect1>
+  <sect1>
+    <title><anchor id="_toc43"/>Frontispiece</title>
+    <para>A decorative illustration on the verso facing the title page recto. It may be related to the books subject, or be a <link linkend="">portrait </link><link linkend="">of </link><link linkend="">the </link><link linkend="">author</link>. Usually in the “voice” of the <link linkend="">Author</link>, <link linkend="">Publisher</link> or both.</para>
+    <para/>
+    <para>
+      <link linkend="">Table of Contents (Front-matter)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Chapters)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Back-matter)</link>
+    </para>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc49"/>Title page</title>
+    <para>Announces the <link linkend="">title</link>, <link linkend="">subtitle</link>, <link linkend="">author</link> and <link linkend="">publisher</link> of the book. Other information that may be found on the <link linkend="">title page</link> can include the publishers location, the <link linkend="">year</link> of publication, or descriptive text about the book. Illustrations are also common on <link linkend="">title pages</link>. This page generally repeats the <link linkend="">Title</link> and <link linkend="">Author</link> as printed on the cover or spine of the book and is usually in the “voice” of the <link linkend="">Publisher</link>. As an example:</para>
+    <para><anchor id="Title"/>Book Title</para>
+    <para><anchor id="Subtitle"/>Book Subtitle</para>
+    <para/>
+    <para>By</para>
+    <para>
+      <ulink url="mailto:OurLittleEngineers@gMail.com?subject=Generic-eBook-and-paperback-self-publishing-template-suitable-for-Kindle-publishing">Robert </ulink>
+      <anchor id="Author"/>
+      <ulink url="mailto:TheLittleEngineers@OutLook.com?subject=Generic-eBook-and-paperback-self-publishing-template-suitable-for-Kindle-publishing.docx">“The R.A.T.”</ulink>
+      <ulink url="mailto:LittleEngineer.RAT@gMail.com?subject=Generic-eBook-and-paperback-self-publishing-template-suitable-for-Kindle-publishing.docx"> Allen</ulink>
+      <ulink url="mailto:LittleEngineer.RAT@OutLook.com?subject=Generic-eBook-and-paperback-self-publishing-template-suitable-for-Kindle-publishing.docx"> Turner</ulink>
+    </para>
+    <para>Copyright <anchor id="©2020"/>©2020</para>
+    <para>All Rights Reserved.</para>
+    <para/>
+    <para>
+      <ulink url="http://www.TCADT.com/">http://www.TCADT.com/</ulink>
+    </para>
+    <para>http://www.GIMEchip.com/</para>
+    <para>
+      <ulink url="http://www.RoboCircuits.org/">http://www.RoboCircuits.org/</ulink>
+    </para>
+    <para>
+      <ulink url="http://www.CannedLogic.com/">http://www.CannedLogic.com/</ulink>
+    </para>
+    <para>
+      <ulink url="http://www.TheLittleEngineers.org/">http://www.TheLittleEngineers.org/</ulink>
+    </para>
+    <para>http://www.TinCansAndDuctTape.com/</para>
+    <para/>
+    <para>
+      <link linkend="">Table of Contents (Front-matter)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Chapters)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Back-matter)</link>
+    </para>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc69"/>Copyright Page/Colophon/Edition Notice</title>
+    <para>Also known as the Colophon or Edition Notice. Technical information such as edition dates, copyrights (copyright notice), edition information, publication information, printing history, cataloging data, legal notices, and the books ISBN or identification number typefaces and the name and address of the printer may appear in any combination on this page. In addition, rows of numbers are sometimes printed at the bottom of the page to indicate the year and number of the printing. Credits for design, production, editing and illustration are also commonly listed on the copyright page. In modern books, this is usually on the verso of the <link linkend="">title page</link>, but in some books, it may be  placed at the end. This page is usually in the “voice” of the <link linkend="">Printer</link>.</para>
+    <para/>
+    <orderedlist>
+      <listitem/>
+    </orderedlist>
+    <sect2>
+      <title><anchor id="Printer"/>Published and/or Printed By:</title>
+      <para><ulink url="http://www.TheLittleEngineers.org/">The </ulink><ulink url="https://github.com/TheLittleEngineers">Little </ulink><anchor id="Primary_Publisher"/><ulink url="https://www.facebook.com/TheLittleEngineers.org">Engineers</ulink> in conjunction with <ulink url="https://www.facebook.com/tincansandducttape/">Tin </ulink><anchor id="Secondary_Publisher"/><ulink url="https://www.facebook.com/Tin-Cans-Duct-Tape-728969003939754">Cans </ulink><ulink url="https://www.facebook.com/groups/1654785514796788/">and </ulink><ulink url="http://www.TinCansAndDuctTape.com/">Duct </ulink><ulink url="http://www.TCADT.com/">Tape</ulink> on behalf of the <link linkend="">author(s)</link>, utilizing the services of:</para>
+      <para>
+        <ulink url="http://www.TCADT.com/">http://www.TCADT.com/</ulink>
+      </para>
+      <para>
+        <ulink url="http://www.GIMEchip.com/">http://www.GIMEchip.com/</ulink>
+      </para>
+      <para>
+        <ulink url="http://www.RoboCircuits.org/">http://www.RoboCircuits.org/</ulink>
+      </para>
+      <para>
+        <ulink url="http://www.CannedLogic.com/">http://www.CannedLogic.com/</ulink>
+      </para>
+      <para>
+        <ulink url="http://www.TheLittleEngineers.org/">http://www.TheLittleEngineers.org/</ulink>
+      </para>
+      <para>
+        <ulink url="http://www.TinCansAndDuctTape.com/">http://www.TinCansAndDuctTape.com/</ulink>
+      </para>
+      <para/>
+      <para>No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, or by any information storage and retrieval system without the prior written permission of the <link linkend="">publisher</link>, except in the case of very brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.</para>
+      <para/>
+      <para>
+        <link linkend="">Table of Contents (Front-matter)</link>
+      </para>
+      <para>
+        <link linkend="">Table of Contents (Chapters)</link>
+      </para>
+      <para>
+        <link linkend="">Table of Contents (Back-matter)</link>
+      </para>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title>Dedication</title>
+    <para>Not every book carries a dedication but, for those that do, it follows the <link linkend="">copyright page</link> and precedes the text. Here, the <link linkend="">author</link> names the person or people, entities, etcetera for whom he/she has written the book. This page is in the “voice” of the <link linkend="">Author</link>. As matters of example:</para>
+    <para/>
+    <para>Dedicated to the memory of my Father, <ulink url="https://smile.amazon.com/s?i=digital-text&amp;rh=p_27%3ARobert+Embry+Turner">ROBERT EMBRY TURNER</ulink>, 1945 - 2019. I LOVE YOU DAD, REST IN PEACE. Thank You for always being there for me. Living without you has been more painful than anything that I have ever experienced.</para>
+    <para/>
+    <para>To my Parents, Carolyn Faye Green (Turner) and Robert Embry Turner, who went without so that their children never had to. I love you Mom and Dad! Thank You for putting up with, indeed encouraging, my curiosity.</para>
+    <para/>
+    <para>To Sarah and Frank Channell for encouraging me to enter school to obtain my degrees in Electronic Engineering Technology. To this very day, I still grieve at the loss of you both.”</para>
+    <para/>
+    <para>
+      <link linkend="">Table of Contents (Front-matter)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Chapters)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Back-matter)</link>
+    </para>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc98"/>Epigraph</title>
+    <para>An author may wish to include an epigraph (A phrase, quotation, or poem) near the front of the book. The epigraph may serve as a preface, as a summary, as a counter-example, or to link the work to a wider literary canon. Usually used to invite comparison, or to enlist a conventional context. The epigraph may also appear facing the <link linkend="">Table of Contents</link>, or facing the first page of text. Epigraphs can also be used at the heads of each chapter. This is usually in the voice of the Author quoting another entity. Three examples follow:</para>
+    <para/>
+    <para>“The journey of a thousand miles begins with one step.” - Lao-Tsze</para>
+    <para/>
+    <para>"You're either on the bus or off the bus." - Ken Kesey, as reported in The Electric Kool-Aid Acid Test</para>
+    <para/>
+    <para>"[I]nnovation really happens by blundering through to success on the back of one's mistakes." - Gifford Pinchot III, Intrapreneuring</para>
+    <para/>
+    <para>
+      <link linkend="">Table of Contents (Front-matter)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Chapters)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Back-matter)</link>
+    </para>
+  </sect1>
+  <sect1>
+    <title><anchor id="Introduction_(Primary)"/>Introduction (Primary) or <anchor id="Why_I_Wrote_This_Book"/>Why I Wrote This Book</title>
+    <para>The Introduction normally occurs after the <link linkend="">table </link><link linkend="">of </link><link linkend="">contents</link>, specifically after <link linkend="">Acknowledgments</link>, but it is better to have it here for an eBook for services supporting a “look inside” feature. It is considered a beginning section which states the purpose and goals of the book, including why you wrote the book, a bit about yourself and the benefits of reading the book. This is in the “voice” of the <link linkend="">Author</link>. It is acceptable to have the Introduction appear here as well as for it to be duplicated in the normal location.</para>
+    <orderedlist>
+      <listitem/>
+    </orderedlist>
+    <sect2>
+      <title><anchor id="Introduction_(Secondary)"/>Introduction (Secondary) or <anchor id="Why_You_Should_Read_This_Book"/>Why You Should Read This Book</title>
+      <para>List some of the benefits to be had from reading this book.</para>
+      <para/>
+      <para>
+        <link linkend="">Table of Contents (Front-matter)</link>
+      </para>
+      <para>
+        <link linkend="">Table of Contents (Chapters)</link>
+      </para>
+      <para>
+        <link linkend="">Table of Contents (Back-matter)</link>
+      </para>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc118"/>Table of Contents (Front-matter)</title>
+    <para>
+      <link linkend="">Table of Contents (Front-matter)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Chapters)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Back-matter)</link>
+    </para>
+    <para>This is a list of chapter headings, and nested subheadings, together with their respective page numbers. This includes all front-matter items listed below, together with chapters in the body matter and back matter. The number of levels of subheadings shown should be limited, so as to keep the contents list short, ideally one page, or possibly a double-page spread. This is in the “voice” of the <link linkend="">Publisher</link>. This is set up to only show Heading 1 so the main chapter headings but not sub headings.</para>
+    <para>
+      <link linkend="">Inside Front Cover</link>
+    </para>
+    <para>
+      <link linkend="">Half Title</link>
+    </para>
+    <para>
+      <link linkend="">Frontispiece</link>
+    </para>
+    <para>
+      <link linkend="">Title Page</link>
+    </para>
+    <para>
+      <link linkend="">Copyright Page</link>
+    </para>
+    <para>
+      <link linkend="">Epigraph</link>
+    </para>
+    <para>
+      <link linkend="">Introduction (Primary)</link>
+    </para>
+    <para>
+      <link linkend="">Why I Wrote This Book</link>
+    </para>
+    <para>
+      <link linkend="">Introduction (Secondary)</link>
+    </para>
+    <para>
+      <link linkend="">Why You Should Read This Book</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Front-matter)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Chapters)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Back-matter)</link>
+    </para>
+    <para>
+      <link linkend="">Legal Notes/Disclaimers</link>
+    </para>
+    <para>
+      <link linkend="">A Note About Perfection</link>
+    </para>
+    <para>
+      <link linkend="">List of Figures</link>
+    </para>
+    <para>
+      <link linkend="">List of Tables</link>
+    </para>
+    <para>
+      <link linkend="">Foreward (Primary)</link>
+    </para>
+    <para>
+      <link linkend="">Foreward (Secondary)</link>
+    </para>
+    <para>
+      <link linkend="">Preface</link>
+    </para>
+    <para>
+      <link linkend="">Acknowledgments</link>
+    </para>
+    <para>
+      <link linkend="">Credits</link>
+    </para>
+    <para>
+      <link linkend="">Introduction (Tertiary)</link>
+    </para>
+    <para>
+      <link linkend="">Prologue</link>
+    </para>
+    <para>
+      <link linkend="">Second Half Title</link>
+    </para>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc148"/>Table of Contents (Chapters)</title>
+    <para><link linkend="">Chapter 1</link>. </para>
+    <para><link linkend="">Chapter 2</link>. </para>
+    <para><link linkend="">Chapter 3</link>. </para>
+    <para><link linkend="">Chapter 4</link>. </para>
+    <para><link linkend="">Chapter 5</link>.</para>
+    <para><link linkend="">Chapter 6</link>.</para>
+    <para><link linkend="">Chapter 7</link>.</para>
+    <para><link linkend="">Chapter 8</link>.</para>
+    <para><link linkend="">Chapter 9</link>.</para>
+    <para><link linkend="">Chapter 10</link>.</para>
+    <para><link linkend="">Chapter 11</link>. </para>
+    <para><link linkend="">Chapter 12</link>. </para>
+    <para><link linkend="">Chapter 13</link>. </para>
+    <para><link linkend="">Chapter 14</link>. </para>
+    <para><link linkend="">Chapter 15</link>.</para>
+    <para><link linkend="">Chapter 16</link>.</para>
+    <para><link linkend="">Chapter 17</link>.</para>
+    <para><link linkend="">Chapter 18</link>.</para>
+    <para><link linkend="">Chapter 19</link>.</para>
+    <para><link linkend="">Chapter 20</link>.</para>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc169"/>Table of Contents (Back-matter)</title>
+    <para>
+      <link linkend="">Epilogue</link>
+    </para>
+    <para>
+      <link linkend="">Extro or Outro</link>
+    </para>
+    <para>
+      <link linkend="">Afterword</link>
+    </para>
+    <para>
+      <link linkend="">Conclusion</link>
+    </para>
+    <para>
+      <link linkend="">Postscript</link>
+    </para>
+    <para>
+      <link linkend="">Appendix or Addendum</link>
+    </para>
+    <para>
+      <link linkend="">Addendum or Appendix</link>
+    </para>
+    <para>
+      <link linkend="">Glossary</link>
+    </para>
+    <para>
+      <link linkend="">Bibliography</link>
+    </para>
+    <para>
+      <link linkend="">Index</link>
+    </para>
+    <para>
+      <link linkend="">Copyright page</link>
+    </para>
+    <para>
+      <link linkend="">Postface</link>
+    </para>
+    <para>
+      <link linkend="">About The Author</link>
+    </para>
+    <para>
+      <link linkend="">Other Books By (Author)</link>
+    </para>
+    <para>
+      <link linkend="">One Last Thing - May I Request A Favor Of You?</link>
+    </para>
+    <para/>
+    <para>
+      <link linkend="">Table of Contents (Front-matter)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Chapters)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Back-matter)</link>
+    </para>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc176"/>Legal Notes/Disclaimers</title>
+    <para>Add Legal Disclaimers Here. This allows at least some protections against potential errors in the text. In any event, it is a good idea to consult an Attorney for assistance in drafting a proper Legal Disclaimer. As an example:</para>
+    <orderedlist>
+      <listitem/>
+    </orderedlist>
+    <sect2>
+      <title><anchor id="_toc178"/>A Note About Perfection:</title>
+      <para>Nothing should ever be considered perfect, including authors and the books that they write. I have designed and built enough circuits and mechanisms and have published enough articles and books in relation to them to know that there is almost zero possibility of avoiding errors in the initial products and publications. Any Author who takes the task seriously is fully aware of the responsibility to the reader to be as accurate as possible. Mistakes do, however, happen and there is a good chance that some mistakes will have crept into the presentations in this publication. If you find what you deem to be a mistake or other error, please inform the Author such that they may be corrected. The advent of eBooks, specifically the Amazon Kindle format, now provides a convenient method of correcting such errors. Traditional book publishing required a whole new printing to correct such errors. </para>
+      <para/>
+      <para>No liability of any kind is assumed with respect to the use of the information herein. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, or by any information storage and retrieval system without the prior written permission of the publisher, except in the case of very brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.</para>
+      <para/>
+      <para>
+        <link linkend="">Table of Contents (Front-matter)</link>
+      </para>
+      <para>
+        <link linkend="">Table of Contents (Chapters)</link>
+      </para>
+      <para>
+        <link linkend="">Table of Contents (Back-matter)</link>
+      </para>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc186"/>List of Figures</title>
+    <para>In books with numerous figures (or illustrations) it can be helpful to include a list of all figures, their titles and the page numbers on which they occur. This is a good place in which to list them.</para>
+    <para/>
+    <para>
+      <link linkend="">Table of Contents (Front-matter)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Chapters)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Back-matter)</link>
+    </para>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc192"/>List of Tables</title>
+    <para>Similar to the List of Figures above, a list of tables occurring in the book may be helpful for readers and here is a good place to list them.</para>
+    <para/>
+    <para>
+      <link linkend="">Table of Contents (Front-matter)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Chapters)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Back-matter)</link>
+    </para>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc198"/>Foreward (Primary)</title>
+    <para>To be written by a third party. Often, a foreword will tell of some interaction between the writer of the foreword and the story or the writer of the story. A foreword to later editions of a work often explains in what respects that edition differs from previous ones. This is in a “voice” of a third party and not the author. I suppose that a Foreward is generally not included in the first printing or edition of a publication, although there is really no reason that it could not be utilized in such a manner.</para>
+    <para/>
+    <para>
+      <link linkend="">Table of Contents (Front-matter)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Chapters)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Back-matter)</link>
+    </para>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc204"/>Foreward (Secondary)</title>
+    <para>To be written by a third party. Often, a foreword will tell of some interaction between the writer of the foreword and the story or the writer of the story. A foreword to later editions of a work often explains in what respects that edition differs from previous ones. This is in a “voice” of a third party and not the author. In general, there is usually only one Foreward in a publication, however, there is nothing preventing the inclusion of two or more.</para>
+    <para/>
+    <para>
+      <link linkend="">Table of Contents (Front-matter)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Chapters)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Back-matter)</link>
+    </para>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc223"/><anchor id="_toc210"/>Preface</title>
+    <para>A preface generally covers the story of how the book came into being, or how the idea for the book was developed. This is often followed by thanks and acknowledgments to people who were helpful to the author during the time of writing. This is in the “voice” of the author.</para>
+    <para/>
+    <para>
+      <link linkend="">Table of Contents (Front-matter)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Chapters)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Back-matter)</link>
+    </para>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc229"/><anchor id="_toc216"/>Acknowledgments</title>
+    <para>Often part of the <link linkend="">Preface</link>, rather than a separate section in its own right, the “<link linkend="">Acknowledgments</link>” acknowledges those persons, entities, et alia who contributed to the creation of the book. This is in the “voice” of the <link linkend="">author</link>.</para>
+    <para/>
+    <para>
+      <link linkend="">Table of Contents (Front-matter)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Chapters)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Back-matter)</link>
+    </para>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc235"/><anchor id="_toc222"/>Credits</title>
+    <para>Often part of the Preface or Acknowledgments, rather than a separate section in its own right, the “Credits” provides credits to those persons, entities, et alia who contributed to the creation of the book, and serves much the same purpose as the Acknowledgments section. This is in the “voice” of the author.</para>
+    <para/>
+    <para>This book was published thanks to free support and training from:</para>
+    <para><ulink url="http://www.TheLittleEngineers.org/">The </ulink><ulink url="https://github.com/TheLittleEngineers">Little </ulink><anchor id="Primary_Publisher1"/><ulink url="https://www.facebook.com/TheLittleEngineers.org">Engineers</ulink> in conjunction with <ulink url="https://www.facebook.com/tincansandducttape/">Tin </ulink><anchor id="Secondary_Publisher1"/><ulink url="https://www.facebook.com/Tin-Cans-Duct-Tape-728969003939754">Cans </ulink><ulink url="https://www.facebook.com/groups/1654785514796788/">and </ulink><ulink url="http://www.TinCansAndDuctTape.com/">Duct </ulink><ulink url="http://www.TCADT.com/">Tape</ulink> utilizing the services of:</para>
+    <para>
+      <ulink url="http://www.TCADT.com/">http://www.TCADT.com/</ulink>
+    </para>
+    <para>
+      <ulink url="http://www.GIMEchip.com/">http://www.GIMEchip.com/</ulink>
+    </para>
+    <para>
+      <ulink url="http://www.RoboCircuits.org/">http://www.RoboCircuits.org/</ulink>
+    </para>
+    <para>
+      <ulink url="http://www.CannedLogic.com/">http://www.CannedLogic.com/</ulink>
+    </para>
+    <para>
+      <ulink url="http://www.TheLittleEngineers.org/">http://www.TheLittleEngineers.org/</ulink>
+    </para>
+    <para>
+      <ulink url="http://www.TinCansAndDuctTape.com/">http://www.TinCansAndDuctTape.com/</ulink>
+    </para>
+    <para/>
+    <para>(Although not a requirement of utilizing this template, I would really appreciate it if you kept the above links and attribution in your book when you publish it. Thank You!)</para>
+    <para/>
+    <para>
+      <link linkend="">Table of Contents (Front-matter)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Chapters)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Back-matter)</link>
+    </para>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc238"/>Introduction (Tertiary)</title>
+    <para>This is where the Introduction normally occurs, but it is better to have it closer to the front for an eBook. It makes for a better “look inside” experience. It is considered a  beginning section which states the purpose and goals of the book, including why you wrote the book, a bit about yourself and the benefits of reading the book. This is in the voice of the Author.</para>
+    <para/>
+    <para>
+      <link linkend="">Table of Contents (Front-matter)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Chapters)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Back-matter)</link>
+    </para>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc244"/>Prologue</title>
+    <para>A prologue is an opening to a story that establishes the setting and gives background details, often some earlier story that ties into the main one, and other miscellaneous information. As such, it is generally considered part of the body in modern book organization. This is usually in the “voice” of the narrator or a character in the book. In a work of fiction, the Prologue sets the scene for the story and is told in the voice of a character from the book, not the voice of the author.</para>
+    <para/>
+    <para>
+      <link linkend="">Table of Contents (Front-matter)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Chapters)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Back-matter)</link>
+    </para>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc250"/>Second Half Title</title>
+    <para>If the “front-matter” is particularly extensive, a second half title identical to the first, can be added before the beginning of the text. The page following is usually blank but may contain an illustration or an epigraph. When the book design calls for double-page chapter opening spreads, the second half title can be used to force the chapter opening to a left-hand page.</para>
+    <para/>
+    <para>
+      <link linkend="">Table of Contents (Front-matter)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Chapters)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Back-matter)</link>
+    </para>
+    <para>This page intentionally left blank, although the presence of this text means that it isn’t actually blank doesn’t it?</para>
+    <para/>
+    <para>
+      <link linkend="">Table of Contents (Front-matter)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Chapters)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Back-matter)</link>
+    </para>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc275"/><anchor id="_toc261"/>Chapter 1. (Heading 1)</title>
+    <para>Chapter Text - It is, more or less, at this point, that we begin the first Chapter of our book or publication. Before reaching this point, you the author should decide just how much of the preceding information and/or sections are needed for your publication. In most cases, only a few of the previous sections should be included although there is nothing, other than good judgment, preventing you from including all of them. From this point on, each chapter should be written and included as needed until you reach the final chapter of your work. Do not use TABs and SPACEs to format your Chapters. Simply type the text and when you reach the end of a Chapter, insert a PAGE BREAK and start a new Chapter. Use Heading 1, Heading 2, etcetera as needed within each Chapter. Do not attempt to use a plethora of fancy fonts – Kindle will replace them with defaults such as Bookerly. Do not try to lock your readers into specific fonts and font styles – Kindle allows the reader to adjust these items to their preferences and attempting to lock them into your preferences will result in bad reviews and possibly an awfully formatted eBook.</para>
+    <orderedlist>
+      <listitem/>
+    </orderedlist>
+    <sect2>
+      <title>Subheading (Heading 2)</title>
+      <para>Chapter Text</para>
+      <orderedlist>
+        <listitem/>
+      </orderedlist>
+      <sect3>
+        <title>Sub Subheading (Heading 3)</title>
+        <para>Chapter Text</para>
+        <para/>
+        <para>
+          <link linkend="">Table of Contents (Front-matter)</link>
+        </para>
+        <para>
+          <link linkend="">Table of Contents (Chapters)</link>
+        </para>
+        <para>
+          <link linkend="">Table of Contents (Back-matter)</link>
+        </para>
+      </sect3>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc285"/>Chapter 2. (Heading 1)</title>
+    <para>Chapter Text</para>
+    <orderedlist>
+      <listitem/>
+    </orderedlist>
+    <sect2><title>Subheading (Heading 2)</title>H<para>Chapter Text</para><orderedlist><listitem/></orderedlist><sect3><title>Sub Subheading (Heading 3)</title><para>Chapter Text</para><para/><para><link linkend="">Table of Contents (Front-matter)</link></para><para><link linkend="">Table of Contents (Chapters)</link></para><para><link linkend="">Table of Contents (Back-matter)</link></para></sect3></sect2>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc295"/>Chapter 3. (Heading 1)</title>
+    <para>Chapter Text</para>
+    <orderedlist>
+      <listitem/>
+    </orderedlist>
+    <sect2>
+      <title>Subheading (Heading 2)</title>
+      <para>Chapter Text</para>
+      <orderedlist>
+        <listitem/>
+      </orderedlist>
+      <sect3>
+        <title>Sub Subheading (Heading 3)</title>
+        <para>Chapter Text</para>
+        <para/>
+        <para>
+          <link linkend="">Table of Contents (Front-matter)</link>
+        </para>
+        <para>
+          <link linkend="">Table of Contents (Chapters)</link>
+        </para>
+        <para>
+          <link linkend="">Table of Contents (Back-matter)</link>
+        </para>
+      </sect3>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc305"/>Chapter 4. (Heading 1)</title>
+    <para>Chapter Text</para>
+    <orderedlist>
+      <listitem/>
+    </orderedlist>
+    <sect2>
+      <title>Subheading (Heading 2)</title>
+      <para>Chapter Text</para>
+      <orderedlist>
+        <listitem/>
+      </orderedlist>
+      <sect3>
+        <title>Sub Subheading (Heading 3)</title>
+        <para>Chapter Text</para>
+        <para/>
+        <para>
+          <link linkend="">Table of Contents (Front-matter)</link>
+        </para>
+        <para>
+          <link linkend="">Table of Contents (Chapters)</link>
+        </para>
+        <para>
+          <link linkend="">Table of Contents (Back-matter)</link>
+        </para>
+      </sect3>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc315"/>Chapter 5. (Heading 1)</title>
+    <para>Chapter Text</para>
+    <orderedlist>
+      <listitem/>
+    </orderedlist>
+    <sect2>
+      <title>Subheading (Heading 2)</title>
+      <para>Chapter Text</para>
+      <orderedlist>
+        <listitem/>
+      </orderedlist>
+      <sect3>
+        <title>Sub Subheading (Heading 3)</title>
+        <para>Chapter Text</para>
+        <para/>
+        <para>
+          <link linkend="">Table of Contents (Front-matter)</link>
+        </para>
+        <para>
+          <link linkend="">Table of Contents (Chapters)</link>
+        </para>
+        <para>
+          <link linkend="">Table of Contents (Back-matter)</link>
+        </para>
+      </sect3>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc325"/>Chapter 6. (Heading 1)</title>
+    <para>Chapter Text</para>
+    <orderedlist>
+      <listitem/>
+    </orderedlist>
+    <sect2>
+      <title>Subheading (Heading 2)</title>
+      <para>Chapter Text</para>
+      <orderedlist>
+        <listitem/>
+      </orderedlist>
+      <sect3>
+        <title>Sub Subheading (Heading 3)</title>
+        <para>Chapter Text</para>
+        <para/>
+        <para>
+          <link linkend="">Table of Contents (Front-matter)</link>
+        </para>
+        <para>
+          <link linkend="">Table of Contents (Chapters)</link>
+        </para>
+        <para>
+          <link linkend="">Table of Contents (Back-matter)</link>
+        </para>
+      </sect3>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc335"/>Chapter 7. (Heading 1)</title>
+    <para>Chapter Text</para>
+    <orderedlist>
+      <listitem/>
+    </orderedlist>
+    <sect2>
+      <title>Subheading (Heading 2)</title>
+      <para>Chapter Text</para>
+      <orderedlist>
+        <listitem/>
+      </orderedlist>
+      <sect3>
+        <title>Sub Subheading (Heading 3)</title>
+        <para>Chapter Text</para>
+        <para/>
+        <para>
+          <link linkend="">Table of Contents (Front-matter)</link>
+        </para>
+        <para>
+          <link linkend="">Table of Contents (Chapters)</link>
+        </para>
+        <para>
+          <link linkend="">Table of Contents (Back-matter)</link>
+        </para>
+      </sect3>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc345"/>Chapter 8. (Heading 1)</title>
+    <para>Chapter Text</para>
+    <orderedlist>
+      <listitem/>
+    </orderedlist>
+    <sect2>
+      <title>Subheading (Heading 2)</title>
+      <para>Chapter Text</para>
+      <orderedlist>
+        <listitem/>
+      </orderedlist>
+      <sect3>
+        <title>Sub Subheading (Heading 3)</title>
+        <para>Chapter Text</para>
+        <para/>
+        <para>
+          <link linkend="">Table of Contents (Front-matter)</link>
+        </para>
+        <para>
+          <link linkend="">Table of Contents (Chapters)</link>
+        </para>
+        <para>
+          <link linkend="">Table of Contents (Back-matter)</link>
+        </para>
+      </sect3>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc355"/>Chapter 9. (Heading 1)</title>
+    <para>Chapter Text</para>
+    <orderedlist>
+      <listitem/>
+    </orderedlist>
+    <sect2>
+      <title>Subheading (Heading 2)</title>
+      <para>Chapter Text</para>
+      <orderedlist>
+        <listitem/>
+      </orderedlist>
+      <sect3>
+        <title>Sub Subheading (Heading 3)</title>
+        <para>Chapter Text</para>
+        <para/>
+        <para>
+          <link linkend="">Table of Contents (Front-matter)</link>
+        </para>
+        <para>
+          <link linkend="">Table of Contents (Chapters)</link>
+        </para>
+        <para>
+          <link linkend="">Table of Contents (Back-matter)</link>
+        </para>
+      </sect3>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc365"/>Chapter 10. (Heading 1)</title>
+    <para>Chapter Text</para>
+    <orderedlist>
+      <listitem/>
+    </orderedlist>
+    <sect2>
+      <title>Subheading (Heading 2)</title>
+      <para>Chapter Text</para>
+      <orderedlist>
+        <listitem/>
+      </orderedlist>
+      <sect3>
+        <title>Sub Subheading (Heading 3)</title>
+        <para>Chapter Text</para>
+        <para/>
+        <para>
+          <link linkend="">Table of Contents (Front-matter)</link>
+        </para>
+        <para>
+          <link linkend="">Table of Contents (Chapters)</link>
+        </para>
+        <para>
+          <link linkend="">Table of Contents (Back-matter)</link>
+        </para>
+      </sect3>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc375"/>Chapter 11. (Heading 1)</title>
+    <para>Chapter Text</para>
+    <orderedlist>
+      <listitem/>
+    </orderedlist>
+    <sect2>
+      <title>Subheading (Heading 2)</title>
+      <para>Chapter Text</para>
+      <orderedlist>
+        <listitem/>
+      </orderedlist>
+      <sect3>
+        <title>Sub Subheading (Heading 3)</title>
+        <para>Chapter Text</para>
+        <para/>
+        <para>
+          <link linkend="">Table of Contents (Front-matter)</link>
+        </para>
+        <para>
+          <link linkend="">Table of Contents (Chapters)</link>
+        </para>
+        <para>
+          <link linkend="">Table of Contents (Back-matter)</link>
+        </para>
+      </sect3>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc385"/>Chapter 12. (Heading 1)</title>
+    <para>Chapter Text</para>
+    <orderedlist>
+      <listitem/>
+    </orderedlist>
+    <sect2>
+      <title>Subheading (Heading 2)</title>
+      <para>Chapter Text</para>
+      <orderedlist>
+        <listitem/>
+      </orderedlist>
+      <sect3>
+        <title>Sub Subheading (Heading 3)</title>
+        <para>Chapter Text</para>
+        <para/>
+        <para>
+          <link linkend="">Table of Contents (Front-matter)</link>
+        </para>
+        <para>
+          <link linkend="">Table of Contents (Chapters)</link>
+        </para>
+        <para>
+          <link linkend="">Table of Contents (Back-matter)</link>
+        </para>
+      </sect3>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc395"/>Chapter 13. (Heading 1)</title>
+    <para>Chapter Text</para>
+    <orderedlist>
+      <listitem/>
+    </orderedlist>
+    <sect2>
+      <title>Subheading (Heading 2)</title>
+      <para>Chapter Text</para>
+      <orderedlist>
+        <listitem/>
+      </orderedlist>
+      <sect3>
+        <title>Sub Subheading (Heading 3)</title>
+        <para>Chapter Text</para>
+        <para/>
+        <para>
+          <link linkend="">Table of Contents (Front-matter)</link>
+        </para>
+        <para>
+          <link linkend="">Table of Contents (Chapters)</link>
+        </para>
+        <para>
+          <link linkend="">Table of Contents (Back-matter)</link>
+        </para>
+      </sect3>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc405"/>Chapter 14. (Heading 1)</title>
+    <para>Chapter Text</para>
+    <orderedlist>
+      <listitem/>
+    </orderedlist>
+    <sect2>
+      <title>Subheading (Heading 2)</title>
+      <para>Chapter Text</para>
+      <orderedlist>
+        <listitem/>
+      </orderedlist>
+      <sect3>
+        <title>Sub Subheading (Heading 3)</title>
+        <para>Chapter Text</para>
+        <para/>
+        <para>
+          <link linkend="">Table of Contents (Front-matter)</link>
+        </para>
+        <para>
+          <link linkend="">Table of Contents (Chapters)</link>
+        </para>
+        <para>
+          <link linkend="">Table of Contents (Back-matter)</link>
+        </para>
+      </sect3>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc415"/>Chapter 15. (Heading 1)</title>
+    <para>Chapter Text</para>
+    <orderedlist>
+      <listitem/>
+    </orderedlist>
+    <sect2>
+      <title>Subheading (Heading 2)</title>
+      <para>Chapter Text</para>
+      <orderedlist>
+        <listitem/>
+      </orderedlist>
+      <sect3>
+        <title>Sub Subheading (Heading 3)</title>
+        <para>Chapter Text</para>
+        <para/>
+        <para>
+          <link linkend="">Table of Contents (Front-matter)</link>
+        </para>
+        <para>
+          <link linkend="">Table of Contents (Chapters)</link>
+        </para>
+        <para>
+          <link linkend="">Table of Contents (Back-matter)</link>
+        </para>
+      </sect3>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc425"/>Chapter 16. (Heading 1)</title>
+    <para>Chapter Text</para>
+    <orderedlist>
+      <listitem/>
+    </orderedlist>
+    <sect2>
+      <title>Subheading (Heading 2)</title>
+      <para>Chapter Text</para>
+      <orderedlist>
+        <listitem/>
+      </orderedlist>
+      <sect3>
+        <title>Sub Subheading (Heading 3)</title>
+        <para>Chapter Text</para>
+        <para/>
+        <para>
+          <link linkend="">Table of Contents (Front-matter)</link>
+        </para>
+        <para>
+          <link linkend="">Table of Contents (Chapters)</link>
+        </para>
+        <para>
+          <link linkend="">Table of Contents (Back-matter)</link>
+        </para>
+      </sect3>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc435"/>Chapter 17. (Heading 1)</title>
+    <para>Chapter Text</para>
+    <orderedlist>
+      <listitem/>
+    </orderedlist>
+    <sect2>
+      <title>Subheading (Heading 2)</title>
+      <para>Chapter Text</para>
+      <orderedlist>
+        <listitem/>
+      </orderedlist>
+      <sect3>
+        <title>Sub Subheading (Heading 3)</title>
+        <para>Chapter Text</para>
+        <para/>
+        <para>
+          <link linkend="">Table of Contents (Front-matter)</link>
+        </para>
+        <para>
+          <link linkend="">Table of Contents (Chapters)</link>
+        </para>
+        <para>
+          <link linkend="">Table of Contents (Back-matter)</link>
+        </para>
+      </sect3>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc445"/>Chapter 18. (Heading 1)</title>
+    <para>Chapter Text</para>
+    <orderedlist>
+      <listitem/>
+    </orderedlist>
+    <sect2>
+      <title>Subheading (Heading 2)</title>
+      <para>Chapter Text</para>
+      <orderedlist>
+        <listitem/>
+      </orderedlist>
+      <sect3>
+        <title>Sub Subheading (Heading 3)</title>
+        <para>Chapter Text</para>
+        <para/>
+        <para>
+          <link linkend="">Table of Contents (Front-matter)</link>
+        </para>
+        <para>
+          <link linkend="">Table of Contents (Chapters)</link>
+        </para>
+        <para>
+          <link linkend="">Table of Contents (Back-matter)</link>
+        </para>
+      </sect3>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc455"/>Chapter 19. (Heading 1)</title>
+    <para>Chapter Text</para>
+    <orderedlist>
+      <listitem/>
+    </orderedlist>
+    <sect2>
+      <title>Subheading (Heading 2)</title>
+      <para>Chapter Text</para>
+      <orderedlist>
+        <listitem/>
+      </orderedlist>
+      <sect3>
+        <title>Sub Subheading (Heading 3)</title>
+        <para>Chapter Text</para>
+        <para/>
+        <para>
+          <link linkend="">Table of Contents (Front-matter)</link>
+        </para>
+        <para>
+          <link linkend="">Table of Contents (Chapters)</link>
+        </para>
+        <para>
+          <link linkend="">Table of Contents (Back-matter)</link>
+        </para>
+      </sect3>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc465"/>Chapter 20. (Heading 1)</title>
+    <para>Chapter Text</para>
+    <orderedlist>
+      <listitem/>
+    </orderedlist>
+    <sect2>
+      <title>Subheading (Heading 2)</title>
+      <para>Chapter Text</para>
+      <orderedlist>
+        <listitem/>
+      </orderedlist>
+      <sect3>
+        <title>Sub Subheading (Heading 3)</title>
+        <para>Chapter Text</para>
+        <para/>
+        <para>
+          <link linkend="">Table of Contents (Front-matter)</link>
+        </para>
+        <para>
+          <link linkend="">Table of Contents (Chapters)</link>
+        </para>
+        <para>
+          <link linkend="">Table of Contents (Back-matter)</link>
+        </para>
+      </sect3>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc474"/>Epilogue</title>
+    <para>This piece of writing at the end of a work of literature or drama is usually used to bring closure to the work and is generally in the “voice” of The narrator or a character in the book.</para>
+    <para/>
+    <para>
+      <link linkend="">Table of Contents (Front-matter)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Chapters)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Back-matter)</link>
+    </para>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc480"/>Extro or Outro</title>
+    <para>The conclusion to a piece of work; this is considered the opposite of the intro. These particular terms are more commonly used in music.</para>
+    <para/>
+    <para>
+      <link linkend="">Table of Contents (Front-matter)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Chapters)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Back-matter)</link>
+    </para>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc486"/>Afterword</title>
+    <para>An afterword generally covers the story of how the book came into being, or of how the idea for the book was developed and is usually in the “voice” of The author, or some other real person or entity.</para>
+    <para/>
+    <para>
+      <link linkend="">Table of Contents (Front-matter)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Chapters)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Back-matter)</link>
+    </para>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc492"/>Conclusion</title>
+    <para>The conclusion of a paper is in the voice of The author and is the chance to have the “last word” in relation to your subject matter. Not only does it allow you to have the final say on the issues at hand, but to also organize your thoughts and demonstrate the importance of your writing. It may also be effectively utilized to present to your readers to a new view of the subject at hand. In a non-fiction book, a conclusion may be considered an ending section which states the concluding ideas and concepts of the preceding writing.</para>
+    <para/>
+    <para>
+      <link linkend="">Table of Contents (Front-matter)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Chapters)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Back-matter)</link>
+    </para>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc498"/>Postscript</title>
+    <para>A postscript is text added at the end of a book or other document. This is most often seen at the end of a letter in which forgotten text is added as P.S. (Post Script), P.P.S. (Post Post Script) and so on. Postscript comes from the Latin word postscribere, with post meaning after and scribere meaning to write.</para>
+    <para/>
+    <para>
+      <link linkend="">Table of Contents (Front-matter)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Chapters)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Back-matter)</link>
+    </para>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc504"/>Appendix or Addendum</title>
+    <para>This supplemental addition to a given main work may correct errors, explain inconsistencies or otherwise detail or update the information found in the main work. In the “voice” of The author.</para>
+    <para/>
+    <para>
+      <link linkend="">Table of Contents (Front-matter)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Chapters)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Back-matter)</link>
+    </para>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc510"/>Addendum or Appendix</title>
+    <para>This supplemental addition to a given main work may correct errors, explain inconsistencies or otherwise detail or update the information found in the main work. In the “voice” of The author.</para>
+    <para/>
+    <para>
+      <link linkend="">Table of Contents (Front-matter)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Chapters)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Back-matter)</link>
+    </para>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc516"/>Glossary</title>
+    <para>The glossary consists of a set of definitions of words of importance to the work. They are normally alphabetized. The entries may consist of places and characters, which is common for longer works of fiction. In the “voice” of the author.</para>
+    <para/>
+    <para>
+      <link linkend="">Table of Contents (Front-matter)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Chapters)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Back-matter)</link>
+    </para>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc522"/>Bibliography</title>
+    <para>This supplemental addition to a given main work may correct errors, explain inconsistencies or otherwise detail or update the information found in the main work. Often used to cite references and other publications, including those by other authors. In the “voice” of the author.</para>
+    <para/>
+    <para>
+      <link linkend="">Table of Contents (Front-matter)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Chapters)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Back-matter)</link>
+    </para>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc528"/>Index</title>
+    <para>This list of terms used in the text contains references, often page numbers, to where the terms can be found in the text. Most common in non-fiction books. In the “voice” of the publisher. Given that Kindle does not use page numbers in a standard sense, clickable links should be used for the Kindle Platform. In fact, an Index really is not necessary with the Amazon Kindle Platform.</para>
+    <para/>
+    <para>
+      <link linkend="">Table of Contents (Front-matter)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Chapters)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Back-matter)</link>
+    </para>
+  </sect1>
+  <sect1>
+    <title><anchor id="Copyright_page"/>Copyright Page</title>
+    <para>Also known as the Colophon or Edition Notice. Technical information such as edition dates, copyrights (copyright notice), edition information, publication information, printing history, cataloging data, legal notices, and the books ISBN or identification number typefaces and the name and address of the printer. In addition, rows of numbers are sometimes printed at the bottom of the page to indicate the year and number of the printing. Credits for design, production, editing and illustration are also commonly listed on the copyright page. In modern books, this is usually on the verso of the title page, but in some books, it may be placed at the end, as is the case here. This page is usually in the “voice” of the Printer.</para>
+    <para/>
+    <para>
+      <link linkend="">Table of Contents (Front-matter)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Chapters)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Back-matter)</link>
+    </para>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc540"/>Postface</title>
+    <para>A “postface” is a text added to the end of a book or may be written as a supplement or conclusion, usually to give a comment, an explanation, or a warning. The postface is usually in the “voice” of the author or another person. The postface is separated from the main body of the book and is usually placed in the appendices pages/sections of the book.</para>
+    <para/>
+    <para>
+      <link linkend="">Table of Contents (Front-matter)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Chapters)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Back-matter)</link>
+    </para>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc547"/><anchor id="_toc546"/>About The Author</title>
+    <para>This is a convenient place for an introduction to the author. It is convenient to include a list of other publications, including hyperlinks to those publications in the section that follows. Find out more about the author by visiting our Author Page at Amazon via one of the following URLs:</para>
+    <para>
+      <ulink url="https://smile.amazon.com/Robert-Allen-Turner/e/B07K5L5HW9">http://www.amazon.com/author/therat</ulink>
+    </para>
+    <para>or</para>
+    <para>
+      <ulink url="https://smile.amazon.com/Robert-Allen-Turner/e/B07K5L5HW9">https://www.amazon.com/Robert-Allen-Turner/e/B07K5L5HW9</ulink>
+    </para>
+    <para>Alternatively, or in addition to the above, visit <ulink url="http://www.TheLittleEngineers.org/">The Little Engineers Website</ulink> for more information and/or details regarding the author.</para>
+    <para/>
+    <para>
+      <link linkend="">Table of Contents (Front-matter)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Chapters)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Back-matter)</link>
+    </para>
+    <informaltable frame="all">
+      <tgroup cols="2"><tbody><row><entry><para><anchor id="Ready_for_graduation_May_1986"/><inlinegraphic fileref="embedded:Image1" width="2.9236inch" depth="5.0673inch"/>Ready for graduation, May 1986</para></entry><entry><para><anchor id="Acting_silly_for_Jennie_May_7_2014"/><inlinegraphic fileref="embedded:Image2" width="2.9236inch" depth="3.898inch"/>Acting silly for Jennie, May 7, 2014</para><para/><para><link linkend="">Table of Contents (Front-matter)</link></para><para><link linkend="">Table of Contents (Chapters)</link></para><para><link linkend="">Table of Contents (Back-matter)</link></para></entry></row><row><entry><para><anchor id="Sometime_in_1989"/><inlinegraphic fileref="embedded:Image3" width="2.9236inch" depth="2.1925inch"/>Sometime in 1989</para></entry><entry><para><anchor id="October_5_2015"/><inlinegraphic fileref="embedded:Image4" width="2.9236inch" depth="2.9236inch"/>October 5, 2015</para></entry></row></tbody></tgroup>
+    </informaltable>
+  </sect1>
+  <sect1>
+    <title>Other Books By <ulink url="https://smile.amazon.com/Robert-Allen-Turner/e/B07K5L5HW9/">Robert “The R.A.T.” Allen Turner</ulink></title>
+    <ulink url="https://smile.amazon.com/Robert-Allen-Turner/e/B07K5L5HW9/">Robert “The R.A.T.” Allen Turner</ulink>
+    <para>This is a convenient place to include a list of your other publications, specifically those eBooks for the Amazon Kindle Platform, including hyperlinks to those publications. It is also recommended to include a list, including hyperlinks, of your other, more traditional (paperback, articles, etcetera) publications. These should be listed after your Kindle offerings, for convenience. Basically, you will want to list your other kindle books (with a link to the Amazon page), followed by your other formats with links. You will need to update all of your books over time with this information as you publish more books and material. The Kindle format makes this an exceptionally easy task.</para>
+    <para/>
+    <orderedlist>
+      <listitem>
+        <para>
+          <ulink url="https://smile.amazon.com/Your-Faith-That-Jesus-Given-ebook/dp/B07K5JYV8T/">Use Your Faith That Jesus Has Given You: A Testimony By Robert Embry Turner (Christian Testimony Book 1)</ulink>
+        </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>
+      <link linkend="">Table of Contents (Front-matter)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Chapters)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Back-matter)</link>
+    </para>
+  </sect1>
+  <sect1>
+    <title><anchor id="_toc582"/>One Last Thing - May I Request A Favor Of You?</title>
+    <para>If you have enjoyed this, or any of my other publications, or have perhaps found it useful or otherwise instructive or entertaining, might you consider posting a short review on Amazon? I would really appreciate it. I do read all of the reviews personally and even critical, potentially unflattering reviews are useful in that they allow me to continually evolve and improve as a writer, thus allowing me to better serve my audience.</para>
+    <para/>
+    <para>If you would like to leave a review then please visit the link below:</para>
+    <para/>
+    <para>
+      <ulink url="https://smile.amazon.com/Your-Faith-That-Jesus-Given-ebook/dp/B07K5JYV8T/">Use Your Faith That Jesus Has Given You: A Testimony By Robert Embry Turner (Christian Testimony Book 1)</ulink>
+    </para>
+    <para/>
+    <para>(add the link to your kindle book. You will need to wait until the book is published before being able to get this link)</para>
+    <para/>
+    <para>Thank You for your support!</para>
+    <para/>
+    <para>
+      <link linkend="">Table of Contents (Front-matter)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Chapters)</link>
+    </para>
+    <para>
+      <link linkend="">Table of Contents (Back-matter)</link>
+    </para>
+  </sect1>
+  <para>Book Title – Author’s Name – Page 59 of 59</para>
+</article>

@@ -1,0 +1,563 @@
+Inside Front Cover
+
+This page is usually completely blank and is the verso of the Half Title recto. This might be considered a good place to “credit” the cover photo, if necessary. Such credits, however, are generally found in the Acknowledgments, Credits, or Copyright pages. Pages that are left blank are usually either completely blank, or consist of a sentence similar to:
+
+“This page intentionally left blank.”
+
+We at The Little Engineers, Canned Logic, Tin Cans And Duct Tape, RoboCircuits.org, TCADT.com, GIMEChip.com, et alia prefer to use a sentence similar to:
+
+“This page intentionally left blank, although the presence of this text means that it isn’t actually blank.”
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+HALF TITLE
+Also called the Bastard title. This page usually consists of a single line of text, in capital letters, containing only the title of the book. It is typically the first page that you see when opening the cover. This page and its verso (the back, or left-hand reverse of the page) are often eliminated in an attempt to control the length of the finished book. This page is usually in the “voice” of the Publisher, and always precedes the actual Title Page.
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Frontispiece
+A decorative illustration on the verso facing the title page recto. It may be related to the books subject, or be a portrait of the author. Usually in the “voice” of the Author, Publisher or both.
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Title page
+Announces the title, subtitle, author and publisher of the book. Other information that may be found on the title page can include the publishers location, the year of publication, or descriptive text about the book. Illustrations are also common on title pages. This page generally repeats the Title and Author as printed on the cover or spine of the book and is usually in the “voice” of the Publisher. As an example:
+Book Title
+Book Subtitle
+
+By
+Robert “The R.A.T.” Allen Turner
+Copyright ©2020
+All Rights Reserved.
+
+http://www.TCADT.com/
+http://www.GIMEchip.com/
+http://www.RoboCircuits.org/
+http://www.CannedLogic.com/
+http://www.TheLittleEngineers.org/
+http://www.TinCansAndDuctTape.com/
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Copyright Page/Colophon/Edition Notice
+Also known as the Colophon or Edition Notice. Technical information such as edition dates, copyrights (copyright notice), edition information, publication information, printing history, cataloging data, legal notices, and the books ISBN or identification number typefaces and the name and address of the printer may appear in any combination on this page. In addition, rows of numbers are sometimes printed at the bottom of the page to indicate the year and number of the printing. Credits for design, production, editing and illustration are also commonly listed on the copyright page. In modern books, this is usually on the verso of the title page, but in some books, it may be  placed at the end. This page is usually in the “voice” of the Printer.
+
+           Published and/or Printed By:
+The Little Engineers in conjunction with Tin Cans and Duct Tape on behalf of the author(s), utilizing the services of:
+http://www.TCADT.com/
+http://www.GIMEchip.com/
+http://www.RoboCircuits.org/
+http://www.CannedLogic.com/
+http://www.TheLittleEngineers.org/
+http://www.TinCansAndDuctTape.com/
+
+No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, or by any information storage and retrieval system without the prior written permission of the publisher, except in the case of very brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Dedication
+Not every book carries a dedication but, for those that do, it follows the copyright page and precedes the text. Here, the author names the person or people, entities, etcetera for whom he/she has written the book. This page is in the “voice” of the Author. As matters of example:
+
+Dedicated to the memory of my Father, ROBERT EMBRY TURNER, 1945 - 2019. I LOVE YOU DAD, REST IN PEACE. Thank You for always being there for me. Living without you has been more painful than anything that I have ever experienced.
+
+To my Parents, Carolyn Faye Green (Turner) and Robert Embry Turner, who went without so that their children never had to. I love you Mom and Dad! Thank You for putting up with, indeed encouraging, my curiosity.
+
+To Sarah and Frank Channell for encouraging me to enter school to obtain my degrees in Electronic Engineering Technology. To this very day, I still grieve at the loss of you both.”
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Epigraph
+An author may wish to include an epigraph (A phrase, quotation, or poem) near the front of the book. The epigraph may serve as a preface, as a summary, as a counter-example, or to link the work to a wider literary canon. Usually used to invite comparison, or to enlist a conventional context. The epigraph may also appear facing the Table of Contents, or facing the first page of text. Epigraphs can also be used at the heads of each chapter. This is usually in the voice of the Author quoting another entity. Three examples follow:
+
+“The journey of a thousand miles begins with one step.” - Lao-Tsze
+
+"You're either on the bus or off the bus." - Ken Kesey, as reported in The Electric Kool-Aid Acid Test
+
+"[I]nnovation really happens by blundering through to success on the back of one's mistakes." - Gifford Pinchot III, Intrapreneuring
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Introduction (Primary) or Why I Wrote This Book
+The Introduction normally occurs after the table of contents, specifically after Acknowledgments, but it is better to have it here for an eBook for services supporting a “look inside” feature. It is considered a beginning section which states the purpose and goals of the book, including why you wrote the book, a bit about yourself and the benefits of reading the book. This is in the “voice” of the Author. It is acceptable to have the Introduction appear here as well as for it to be duplicated in the normal location.
+           Introduction (Secondary) or Why You Should Read This Book
+List some of the benefits to be had from reading this book.
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Table of Contents (Front-matter)
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+This is a list of chapter headings, and nested subheadings, together with their respective page numbers. This includes all front-matter items listed below, together with chapters in the body matter and back matter. The number of levels of subheadings shown should be limited, so as to keep the contents list short, ideally one page, or possibly a double-page spread. This is in the “voice” of the Publisher. This is set up to only show Heading 1 so the main chapter headings but not sub headings.
+Inside Front Cover
+Half Title
+Frontispiece
+Title Page
+Copyright Page
+Epigraph
+Introduction (Primary)
+Why I Wrote This Book
+Introduction (Secondary)
+Why You Should Read This Book
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Legal Notes/Disclaimers
+A Note About Perfection
+List of Figures
+List of Tables
+Foreward (Primary)
+Foreward (Secondary)
+Preface
+Acknowledgments
+Credits
+Introduction (Tertiary)
+Prologue
+Second Half Title
+Table of Contents (Chapters)
+Chapter 1. 
+Chapter 2. 
+Chapter 3. 
+Chapter 4. 
+Chapter 5.
+Chapter 6.
+Chapter 7.
+Chapter 8.
+Chapter 9.
+Chapter 10.
+Chapter 11. 
+Chapter 12. 
+Chapter 13. 
+Chapter 14. 
+Chapter 15.
+Chapter 16.
+Chapter 17.
+Chapter 18.
+Chapter 19.
+Chapter 20.
+Table of Contents (Back-matter)
+Epilogue
+Extro or Outro
+Afterword
+Conclusion
+Postscript
+Appendix or Addendum
+Addendum or Appendix
+Glossary
+Bibliography
+Index
+Copyright page
+Postface
+About The Author
+Other Books By (Author)
+One Last Thing - May I Request A Favor Of You?
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Legal Notes/Disclaimers
+Add Legal Disclaimers Here. This allows at least some protections against potential errors in the text. In any event, it is a good idea to consult an Attorney for assistance in drafting a proper Legal Disclaimer. As an example:
+           A Note About Perfection:
+Nothing should ever be considered perfect, including authors and the books that they write. I have designed and built enough circuits and mechanisms and have published enough articles and books in relation to them to know that there is almost zero possibility of avoiding errors in the initial products and publications. Any Author who takes the task seriously is fully aware of the responsibility to the reader to be as accurate as possible. Mistakes do, however, happen and there is a good chance that some mistakes will have crept into the presentations in this publication. If you find what you deem to be a mistake or other error, please inform the Author such that they may be corrected. The advent of eBooks, specifically the Amazon Kindle format, now provides a convenient method of correcting such errors. Traditional book publishing required a whole new printing to correct such errors. 
+
+No liability of any kind is assumed with respect to the use of the information herein. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, or by any information storage and retrieval system without the prior written permission of the publisher, except in the case of very brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+List of Figures
+In books with numerous figures (or illustrations) it can be helpful to include a list of all figures, their titles and the page numbers on which they occur. This is a good place in which to list them.
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+List of Tables
+Similar to the List of Figures above, a list of tables occurring in the book may be helpful for readers and here is a good place to list them.
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Foreward (Primary)
+To be written by a third party. Often, a foreword will tell of some interaction between the writer of the foreword and the story or the writer of the story. A foreword to later editions of a work often explains in what respects that edition differs from previous ones. This is in a “voice” of a third party and not the author. I suppose that a Foreward is generally not included in the first printing or edition of a publication, although there is really no reason that it could not be utilized in such a manner.
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Foreward (Secondary)
+To be written by a third party. Often, a foreword will tell of some interaction between the writer of the foreword and the story or the writer of the story. A foreword to later editions of a work often explains in what respects that edition differs from previous ones. This is in a “voice” of a third party and not the author. In general, there is usually only one Foreward in a publication, however, there is nothing preventing the inclusion of two or more.
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Preface
+A preface generally covers the story of how the book came into being, or how the idea for the book was developed. This is often followed by thanks and acknowledgments to people who were helpful to the author during the time of writing. This is in the “voice” of the author.
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Acknowledgments
+Often part of the Preface, rather than a separate section in its own right, the “Acknowledgments” acknowledges those persons, entities, et alia who contributed to the creation of the book. This is in the “voice” of the author.
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Credits
+Often part of the Preface or Acknowledgments, rather than a separate section in its own right, the “Credits” provides credits to those persons, entities, et alia who contributed to the creation of the book, and serves much the same purpose as the Acknowledgments section. This is in the “voice” of the author.
+
+This book was published thanks to free support and training from:
+The Little Engineers in conjunction with Tin Cans and Duct Tape utilizing the services of:
+http://www.TCADT.com/
+http://www.GIMEchip.com/
+http://www.RoboCircuits.org/
+http://www.CannedLogic.com/
+http://www.TheLittleEngineers.org/
+http://www.TinCansAndDuctTape.com/
+
+(Although not a requirement of utilizing this template, I would really appreciate it if you kept the above links and attribution in your book when you publish it. Thank You!)
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Introduction (Tertiary)
+This is where the Introduction normally occurs, but it is better to have it closer to the front for an eBook. It makes for a better “look inside” experience. It is considered a  beginning section which states the purpose and goals of the book, including why you wrote the book, a bit about yourself and the benefits of reading the book. This is in the voice of the Author.
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Prologue
+A prologue is an opening to a story that establishes the setting and gives background details, often some earlier story that ties into the main one, and other miscellaneous information. As such, it is generally considered part of the body in modern book organization. This is usually in the “voice” of the narrator or a character in the book. In a work of fiction, the Prologue sets the scene for the story and is told in the voice of a character from the book, not the voice of the author.
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Second Half Title
+If the “front-matter” is particularly extensive, a second half title identical to the first, can be added before the beginning of the text. The page following is usually blank but may contain an illustration or an epigraph. When the book design calls for double-page chapter opening spreads, the second half title can be used to force the chapter opening to a left-hand page.
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+This page intentionally left blank, although the presence of this text means that it isn’t actually blank doesn’t it?
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Chapter 1. (Heading 1)
+Chapter Text - It is, more or less, at this point, that we begin the first Chapter of our book or publication. Before reaching this point, you the author should decide just how much of the preceding information and/or sections are needed for your publication. In most cases, only a few of the previous sections should be included although there is nothing, other than good judgment, preventing you from including all of them. From this point on, each chapter should be written and included as needed until you reach the final chapter of your work. Do not use TABs and SPACEs to format your Chapters. Simply type the text and when you reach the end of a Chapter, insert a PAGE BREAK and start a new Chapter. Use Heading 1, Heading 2, etcetera as needed within each Chapter. Do not attempt to use a plethora of fancy fonts – Kindle will replace them with defaults such as Bookerly. Do not try to lock your readers into specific fonts and font styles – Kindle allows the reader to adjust these items to their preferences and attempting to lock them into your preferences will result in bad reviews and possibly an awfully formatted eBook.
+           Subheading (Heading 2)
+Chapter Text
+               Sub Subheading (Heading 3)
+Chapter Text
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Chapter 2. (Heading 1)
+Chapter Text
+           Subheading (Heading 2)
+Chapter Text
+               Sub Subheading (Heading 3)
+Chapter Text
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Chapter 3. (Heading 1)
+Chapter Text
+           Subheading (Heading 2)
+Chapter Text
+               Sub Subheading (Heading 3)
+Chapter Text
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Chapter 4. (Heading 1)
+Chapter Text
+           Subheading (Heading 2)
+Chapter Text
+               Sub Subheading (Heading 3)
+Chapter Text
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Chapter 5. (Heading 1)
+Chapter Text
+           Subheading (Heading 2)
+Chapter Text
+               Sub Subheading (Heading 3)
+Chapter Text
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Chapter 6. (Heading 1)
+Chapter Text
+           Subheading (Heading 2)
+Chapter Text
+               Sub Subheading (Heading 3)
+Chapter Text
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Chapter 7. (Heading 1)
+Chapter Text
+           Subheading (Heading 2)
+Chapter Text
+               Sub Subheading (Heading 3)
+Chapter Text
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Chapter 8. (Heading 1)
+Chapter Text
+           Subheading (Heading 2)
+Chapter Text
+               Sub Subheading (Heading 3)
+Chapter Text
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Chapter 9. (Heading 1)
+Chapter Text
+           Subheading (Heading 2)
+Chapter Text
+               Sub Subheading (Heading 3)
+Chapter Text
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Chapter 10. (Heading 1)
+Chapter Text
+           Subheading (Heading 2)
+Chapter Text
+               Sub Subheading (Heading 3)
+Chapter Text
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Chapter 11. (Heading 1)
+Chapter Text
+           Subheading (Heading 2)
+Chapter Text
+               Sub Subheading (Heading 3)
+Chapter Text
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Chapter 12. (Heading 1)
+Chapter Text
+           Subheading (Heading 2)
+Chapter Text
+               Sub Subheading (Heading 3)
+Chapter Text
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Chapter 13. (Heading 1)
+Chapter Text
+           Subheading (Heading 2)
+Chapter Text
+               Sub Subheading (Heading 3)
+Chapter Text
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Chapter 14. (Heading 1)
+Chapter Text
+           Subheading (Heading 2)
+Chapter Text
+               Sub Subheading (Heading 3)
+Chapter Text
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Chapter 15. (Heading 1)
+Chapter Text
+           Subheading (Heading 2)
+Chapter Text
+               Sub Subheading (Heading 3)
+Chapter Text
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Chapter 16. (Heading 1)
+Chapter Text
+           Subheading (Heading 2)
+Chapter Text
+               Sub Subheading (Heading 3)
+Chapter Text
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Chapter 17. (Heading 1)
+Chapter Text
+           Subheading (Heading 2)
+Chapter Text
+               Sub Subheading (Heading 3)
+Chapter Text
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Chapter 18. (Heading 1)
+Chapter Text
+           Subheading (Heading 2)
+Chapter Text
+               Sub Subheading (Heading 3)
+Chapter Text
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Chapter 19. (Heading 1)
+Chapter Text
+           Subheading (Heading 2)
+Chapter Text
+               Sub Subheading (Heading 3)
+Chapter Text
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Chapter 20. (Heading 1)
+Chapter Text
+           Subheading (Heading 2)
+Chapter Text
+               Sub Subheading (Heading 3)
+Chapter Text
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Epilogue
+This piece of writing at the end of a work of literature or drama is usually used to bring closure to the work and is generally in the “voice” of The narrator or a character in the book.
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Extro or Outro
+The conclusion to a piece of work; this is considered the opposite of the intro. These particular terms are more commonly used in music.
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Afterword
+An afterword generally covers the story of how the book came into being, or of how the idea for the book was developed and is usually in the “voice” of The author, or some other real person or entity.
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Conclusion
+The conclusion of a paper is in the voice of The author and is the chance to have the “last word” in relation to your subject matter. Not only does it allow you to have the final say on the issues at hand, but to also organize your thoughts and demonstrate the importance of your writing. It may also be effectively utilized to present to your readers to a new view of the subject at hand. In a non-fiction book, a conclusion may be considered an ending section which states the concluding ideas and concepts of the preceding writing.
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Postscript
+A postscript is text added at the end of a book or other document. This is most often seen at the end of a letter in which forgotten text is added as P.S. (Post Script), P.P.S. (Post Post Script) and so on. Postscript comes from the Latin word postscribere, with post meaning after and scribere meaning to write.
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Appendix or Addendum
+This supplemental addition to a given main work may correct errors, explain inconsistencies or otherwise detail or update the information found in the main work. In the “voice” of The author.
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Addendum or Appendix
+This supplemental addition to a given main work may correct errors, explain inconsistencies or otherwise detail or update the information found in the main work. In the “voice” of The author.
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Glossary
+The glossary consists of a set of definitions of words of importance to the work. They are normally alphabetized. The entries may consist of places and characters, which is common for longer works of fiction. In the “voice” of the author.
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Bibliography
+This supplemental addition to a given main work may correct errors, explain inconsistencies or otherwise detail or update the information found in the main work. Often used to cite references and other publications, including those by other authors. In the “voice” of the author.
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Index
+This list of terms used in the text contains references, often page numbers, to where the terms can be found in the text. Most common in non-fiction books. In the “voice” of the publisher. Given that Kindle does not use page numbers in a standard sense, clickable links should be used for the Kindle Platform. In fact, an Index really is not necessary with the Amazon Kindle Platform.
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Copyright Page
+Also known as the Colophon or Edition Notice. Technical information such as edition dates, copyrights (copyright notice), edition information, publication information, printing history, cataloging data, legal notices, and the books ISBN or identification number typefaces and the name and address of the printer. In addition, rows of numbers are sometimes printed at the bottom of the page to indicate the year and number of the printing. Credits for design, production, editing and illustration are also commonly listed on the copyright page. In modern books, this is usually on the verso of the title page, but in some books, it may be placed at the end, as is the case here. This page is usually in the “voice” of the Printer.
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Postface
+A “postface” is a text added to the end of a book or may be written as a supplement or conclusion, usually to give a comment, an explanation, or a warning. The postface is usually in the “voice” of the author or another person. The postface is separated from the main body of the book and is usually placed in the appendices pages/sections of the book.
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+About The Author
+This is a convenient place for an introduction to the author. It is convenient to include a list of other publications, including hyperlinks to those publications in the section that follows. Find out more about the author by visiting our Author Page at Amazon via one of the following URLs:
+http://www.amazon.com/author/therat
+or
+https://www.amazon.com/Robert-Allen-Turner/e/B07K5L5HW9
+Alternatively, or in addition to the above, visit The Little Engineers Website for more information and/or details regarding the author.
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Ready for graduation, May 1986
+Acting silly for Jennie, May 7, 2014
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+Sometime in 1989
+October 5, 2015
+Other Books By Robert “The R.A.T.” Allen Turner
+This is a convenient place to include a list of your other publications, specifically those eBooks for the Amazon Kindle Platform, including hyperlinks to those publications. It is also recommended to include a list, including hyperlinks, of your other, more traditional (paperback, articles, etcetera) publications. These should be listed after your Kindle offerings, for convenience. Basically, you will want to list your other kindle books (with a link to the Amazon page), followed by your other formats with links. You will need to update all of your books over time with this information as you publish more books and material. The Kindle format makes this an exceptionally easy task.
+
+    • Use Your Faith That Jesus Has Given You: A Testimony By Robert Embry Turner (Christian Testimony Book 1)
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
+One Last Thing - May I Request A Favor Of You?
+If you have enjoyed this, or any of my other publications, or have perhaps found it useful or otherwise instructive or entertaining, might you consider posting a short review on Amazon? I would really appreciate it. I do read all of the reviews personally and even critical, potentially unflattering reviews are useful in that they allow me to continually evolve and improve as a writer, thus allowing me to better serve my audience.
+
+If you would like to leave a review then please visit the link below:
+
+Use Your Faith That Jesus Has Given You: A Testimony By Robert Embry Turner (Christian Testimony Book 1)
+
+(add the link to your kindle book. You will need to wait until the book is published before being able to get this link)
+
+Thank You for your support!
+
+Table of Contents (Front-matter)
+Table of Contents (Chapters)
+Table of Contents (Back-matter)
