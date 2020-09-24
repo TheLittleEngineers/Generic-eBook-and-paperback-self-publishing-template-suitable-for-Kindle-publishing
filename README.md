@@ -9,8 +9,6 @@
 <meta http-equiv="Content-Language" content="en-us">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>Introduction By: Robert &quot;The R.A.T.&quot; Allen Turner (The RAT) - The Little Engineers, TheLittleEngineers.org, RetroATX, RetroATX.com, Retro-ATX, Retro-ATX.com, RoboCircuits, RoboCircuits.org, Tin Cans And Duct Tape, TinCansAndDuctTape.com, TCADT, TCADT.com, Canned Logic, CannedLogic.com, GIMEchip, GIMEchip.com</title>
-
 <link rel="stylesheet" type="text/css" href="http://www.TheLittleEngineers.org/css/cookieconsent.min.css"></link>
 <link rel="stylesheet" type="text/css" href="http://www.TheLittleEngineers.org/css/datetime.css"></link>
 <link rel="stylesheet" type="text/css" href="http://www.TheLittleEngineers.org/css/responsive_two_column_layout.css"></link>
