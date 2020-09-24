@@ -13,21 +13,15 @@
 <link rel="stylesheet" type="text/css" href="http://www.TheLittleEngineers.org/css/datetime.css"></link>
 <link rel="stylesheet" type="text/css" href="http://www.TheLittleEngineers.org/css/responsive_two_column_layout.css"></link>
 
-<script src="http://www.TheLittleEngineers.org/js/cookie.consent.min.js"></script>
-<script src="http://www.TheLittleEngineers.org/js/github.min.js"></script>
-
 </head>
 
 <body style="background-color:WhiteSmoke;">
 
 <!-- Top Row -->
 <center>
-<h3 style="text-align: center; color: Black;">This page created: April 10, 2019, last updated: September 23, 2020, served: 
-<p class="marquee"><span id="dtText"></span></p>
-<script type="text/javascript" src="http://www.TheLittleEngineers.org/js/date.time.js"></script></h3></center>
-<p align="center">
+
 # Generic-eBook-and-paperback-self-publishing-template-suitable-for-Kindle-publishing
-</p>
+
 <br>
 <p align="justify">
 This repository contains a universal eBook template that is suitable for use in creating book(s) to be published via Amazon Kindle Direct Publishing. This &quot;generic&quot; template is also quite useful in creating books intended for actual physical publishing/printing and is also for creating &quot;*.pdf&quot; (or similar: &quot;*.mobi&quot;, etcetera) eBooks and documents. This project is intended to be &quot;the only thing you need to get your book formatted for publishing&quot;.
